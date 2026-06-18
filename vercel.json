@@ -1,5 +1,4 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": ".output/public",
-  "serverlessFunctionRegion": "iad1"
+  "outputDirectory": ".output/public"
 }
